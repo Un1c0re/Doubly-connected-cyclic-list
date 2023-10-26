@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Code\Visual Studio\Doubly connected cyclic list\Doubly connected cyclic list\main.cpp(34,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Doubly connected cyclic list.vcxproj -> D:\Code\Visual Studio\Doubly connected cyclic list\x64\Debug\Doubly connected cyclic list.exe
